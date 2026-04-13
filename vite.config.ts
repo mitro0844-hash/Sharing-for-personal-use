@@ -12,3 +12,4 @@ export default defineConfig({
     },
   },
 })
+base: '/Sharing-for-personal-use/'
